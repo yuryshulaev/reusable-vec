@@ -1,0 +1,11 @@
+[package]
+name = "reusable-vec"
+description = "A Vec wrapper that allows reusing contained values"
+version = "0.1.2"
+edition = "2021"
+license = "MIT"
+repository = "https://github.com/yuryshulaev/reusable-vec"
+keywords = ["vec", "data-structure", "pool", "performance"]
+categories = ["data-structures"]
+
+[dependencies]
